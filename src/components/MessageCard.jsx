@@ -23,7 +23,7 @@ naan thaan unnaku first wish pannirukan pola ig ippo irruthu nee happy ahh siric
 i think ipdi oru birthday ini upcoiming yrs full nee celebrate pannanum athuku naan un kooda irrupen.
 
 ithu ennaala mudicha kutty surprise ddd,
-once again happy birthday boobooball!!.
+I Luvvvuuuuuu dddd boobooball!!.
 
 Happy Birthday! 🎉
 
