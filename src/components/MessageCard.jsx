@@ -17,7 +17,7 @@ function MessageCard({ isActive }) {
 
 many more happy returns of the day ddd dhandooo.
 
-naan thaan unnaku first wish pannirukan pola apdinu nenaikara doiii,
+naan thaan unnaku first wish pannirukan pola ig ippo irruthu nee happy ahh sirichute irrukanum ddd,
 i think ipdi oru birthday ini upcoiming yrs full nee celebrate pannanum athuku naan un kooda irrupen.
 
 ithu ennaala mudicha kutty surprise ddd,
