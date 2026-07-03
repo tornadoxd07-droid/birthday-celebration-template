@@ -15,7 +15,7 @@ function MessageCard({ isActive }) {
  
   const recipientName = "Vachuu";
   
-  const message = `Happy Birthday dhandoo
+  const message = `Happy Birthday dhandoo!!
 
 many more happy returns of the day ddd dhandooo.
 
@@ -23,7 +23,7 @@ naan thaan unnaku first wish pannirukan pola ig ippo irruthu nee happy ahh siric
 i think ipdi oru birthday ini upcoiming yrs full nee celebrate pannanum athuku naan un kooda irrupen.
 
 ithu ennaala mudicha kutty surprise ddd,
-once again happy birthday boobooball.
+once again happy birthday boobooball!!.
 
 Happy Birthday! 🎉
 
