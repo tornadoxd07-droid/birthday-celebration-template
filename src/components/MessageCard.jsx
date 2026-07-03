@@ -15,7 +15,7 @@ function MessageCard({ isActive }) {
  
   const recipientName = "Vachuu";
   
-  const message = `Happy Birthday dhandoo`;
+  const message = `Happy Birthday dhandoo
 
 many more happy returns of the day ddd dhandooo.
 
