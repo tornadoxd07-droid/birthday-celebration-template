@@ -13,19 +13,19 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Vachuuu],
 
-Your personalized birthday message goes here.
+many more happy returns of the day ddd dhandooo.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+naan thaan unnaku first wish pannirukan pola apdinu nenaikara doiii,
+i think ipdi oru birthday ini upcoiming yrs full nee celebrate pannanum athuku naan un kooda irrupen.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+ithu ennaala mudicha kutty surprise ddd,
+once again happy birthday boobooball.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [Nishaaa]`;
 
   // Handle page transitions
   useEffect(() => {
