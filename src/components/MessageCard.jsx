@@ -12,8 +12,9 @@ function MessageCard({ isActive }) {
   const curtainRightRef = useRef(null);
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
-
-  const message = `[Vachuuu],
+  const recipientName = "Vachuu";
+const senderName = "nishuu";
+const message = `Happy Birthday dhandoo`;
 
 many more happy returns of the day ddd dhandooo.
 
