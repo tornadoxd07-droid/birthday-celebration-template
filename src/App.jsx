@@ -100,7 +100,7 @@ function App() {
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Dhandoo's]'s</span>{" "}
+                Counting down to <span className="highlight">[Dhandoo's]</span>{" "}
                 special day 🎂
               </>
             )}
